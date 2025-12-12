@@ -1,18 +1,6 @@
 # Genji_Tryhards
 
-This is only for Genji Tryhards. Believe. 
-
-peak genji gameplay --> [Gameplay](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-Install the rep by installing git installer first on your image. Then run 
-
-git --version
-
-to see if it is installed.
-
-Then do 
-git clone url
-
+_**READ THIS GOOGLE DOC BEFORE USING any "AllInOne" scripts. [Doc](https://docs.google.com/document/d/1v6iYCY3FmV_Trjn8fvMHXiPXdppMdorFVdaYYv0hyZI/edit?usp=sharing)**_
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass ← if powershell(admin) doesn't exec code
 
